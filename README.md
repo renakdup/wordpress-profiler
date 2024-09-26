@@ -1,5 +1,6 @@
-# wordpress-profiler
-WIP: Profiler for WordPress
+# WIP: Wordpress Profiler
+
+Profiler for WordPress
 
 ## Roadmap
 - [ ] Create PoC for hooks profiling.
