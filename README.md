@@ -7,4 +7,8 @@ WIP: Profiler for WordPress
 - [ ] Add visualization.
 - [ ] Write wp-cli command.
   - [ ] Create rollback command.
-- [ ] Communicate with WP community about drop-in. 
+- [ ] Communicate with WP community about drop-in.
+
+### Nice to have
+- [ ] Calculation of SQL requests ?
+- [ ] Ajax ?
